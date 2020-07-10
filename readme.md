@@ -210,6 +210,7 @@ to leverage a 20x price exposure
 - [https://liquality.io/swap/](https://liquality.io/swap/) - atomic swaps
 - [Torus](https://tor.us/) - Seamless Key Management
 - [Tornado.cash](https://tornado.cash/) - Private Transactions On Ethereum
+- [Alpha DeFi Forum by DeFi Prime](https://alpha.defiprime.com/) 
 
 ## Taxes
 - [Rotki](https://rotki.com/)
