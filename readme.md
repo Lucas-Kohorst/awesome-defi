@@ -127,6 +127,7 @@ DeFi applications, lending/borrowing, AMMs, exchanges, hackathon projects
 - [Predictions Exchange](https://www.predictions.exchange/)
 - [Omen](https://omen.eth.link/)
 - [Augur](https://www.augur.net/)
+- [PolyMarket](https://poly.market/)
 
 ## Options and Insurance
 - [Opyn](https://opyn.co/#/) - Protect your DeFi deposits and hedge ETH risk.
