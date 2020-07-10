@@ -265,7 +265,3 @@ In no particular order
 ## Contributing
 
 [Contributions of any kind welcome](contributing.md)!
-
-## License
-
-[CC0 License](license)
