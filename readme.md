@@ -184,6 +184,7 @@ to leverage a 20x price exposure
 - [DaiRich](https://dairich.com/) - The easy way to start investing in DeFi
 - [Atomic Ninga](https://atomic.ninja/) - transaction builder
 - [Flash Mint](https://flashmint.app/) - no code defi tool
+- [NFT Locker](https://github.com/jmb-42/nftlocker) - Lock an NFT with a password
 
 ## Developer Tools
 - [builder.dev](https://buidler.dev/) - Task runner for Ethereum smart contract developers.
