@@ -177,6 +177,8 @@ DeFi applications, lending/borrowing, AMMs, exchanges, hackathon projects
 - [Dune Analytics](https://www.duneanalytics.com/) - Instantly create and share
 analysis of Ethereum data
 - [Spells.fyi](https://spells.fyi/) - review upcoming protocol changes
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+
 
 ## Hackathon Projects
 - [Upside DAI](https://upsidedai.com/) - Trade on DAI volatility
