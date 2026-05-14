@@ -176,6 +176,7 @@ DeFi applications, lending/borrowing, AMMs, exchanges, hackathon projects
 - [Loan Scan](https://loanscan.io/) - Financial information and analytics for debt issued on the Ethereum blockchain
 - [Dune Analytics](https://www.duneanalytics.com/) - Instantly create and share
 analysis of Ethereum data
+- [Sharpe](https://www.sharpe.ai/) - Crypto market intelligence for DeFi traders covering DEX flow, on-chain risk, narratives, and derivatives context.
 - [Spells.fyi](https://spells.fyi/) - review upcoming protocol changes
 
 ## Hackathon Projects
