@@ -238,6 +238,7 @@ to leverage a 20x price exposure
 - [Week in Ethereum](https://weekinethereumnews.com/)
 - [Consensus CodeFi](https://codefi.consensys.net/newsletter)
 - [The Daily GWEI](https://thedailygwei.substack.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Awesome Lists
 - [chuanwu/Awesome-DeFi](https://github.com/chuanwu/Awesome-DeFi)
