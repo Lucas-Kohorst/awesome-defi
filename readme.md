@@ -165,18 +165,19 @@ DeFi applications, lending/borrowing, AMMs, exchanges, hackathon projects
 - [StarkWare](https://starkware.co/) - zkRollup scaling solution
 
 ## Analytics
-- [MyDeFi](https://mydefi.org) - Your Dashboard for Decentralized Finance
-- [DefiPulse](https://defipulse.com) - The latest analytics and rankings of DeFi protocols
-- [Zerion](https://zerion.io/) - A simple interface to access decentralized finance to invest, earn interest and borrow crypto assets.
+
 - [BTC on Ethereum](https://btconethereum.com/)
-- [USD on Ethereum](https://usdonethereum.com/)
-- [Pools.fyi](https://pools.fyi/#/) - Find the best liquidity pools
 - [DeBank](https://debank.com/) - Everything you need to know about DeFi
-- [Zapper](https://www.zapper.fi/) - Your DeFi Dashboard
-- [Loan Scan](https://loanscan.io/) - Financial information and analytics for debt issued on the Ethereum blockchain
+- [DefiPulse](https://defipulse.com) - The latest analytics and rankings of DeFi protocols
 - [Dune Analytics](https://www.duneanalytics.com/) - Instantly create and share
-analysis of Ethereum data
+- [Loan Scan](https://loanscan.io/) - Financial information and analytics for debt issued on the Ethereum blockchain
+- [MyDeFi](https://mydefi.org) - Your Dashboard for Decentralized Finance
+- [Pools.fyi](https://pools.fyi/#/) - Find the best liquidity pools
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [Spells.fyi](https://spells.fyi/) - review upcoming protocol changes
+- [USD on Ethereum](https://usdonethereum.com/)
+- [Zapper](https://www.zapper.fi/) - Your DeFi Dashboard
+- [Zerion](https://zerion.io/) - A simple interface to access decentralized finance to invest, earn interest and borrow crypto assets.
 
 ## Hackathon Projects
 - [Upside DAI](https://upsidedai.com/) - Trade on DAI volatility
