@@ -83,6 +83,7 @@ DeFi applications, lending/borrowing, AMMs, exchanges, hackathon projects
 - [Balancer](https://balancer.finance/) - AMM with up to 8 assets and variable weights
 - [Curve](https://www.curve.fi/) - highly efficient stablecoin swaps
 - [Oasis](https://oasis.app/)
+- **[DefiLPKit](https://defilpkit.com/)** - Free read-only LP calculator: paste a pool address to see fee APR, estimated net yield after impermanent loss and gas, and a range to test. No wallet connect.
 
 ## Decentralized Exchanges
 - [Kyber](https://kyber.network/)
